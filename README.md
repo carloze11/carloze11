@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A dedicated frontend developer from Los Angeles, CA.</h3>
+<h3 align="center">A dedicated Full Stack developer from Los Angeles, CA.</h3>
 
 - 🔭 I’m currently working on *InEdible: A Full Stack Application for those allergic/intolerant to certain foods.**
 
