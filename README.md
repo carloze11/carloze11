@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 
-- 👨‍💻 All of my projects are available at [https://carlosestrada.netlify.app/](https://carlosestrada.netlify.app/)
+- 👨‍💻 Portfolio under construction. 👷‍♂️ 
 
 - 📫 How to reach me **cestrada1109@gmail.com**
 
