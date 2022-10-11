@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, React, MongoDB**
 
-- 👯 I’m looking to collaborate on **JavaScript Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects aimed at helping underrespresented groups**
 
 - 👨‍💻 Portfolio under construction. 👷‍♂️ 
 
