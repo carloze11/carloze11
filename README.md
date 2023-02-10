@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">A dedicated Full Stack developer from Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on *InEdible: A Full Stack Application for those allergic/intolerant to certain foods.**
+- 🔭 I’m currently working on *InEdible: A Full Stack Application Built with the MERN stack.**
 
-- 🌱 I’m currently learning **Node.js, React, MongoDB**
+- 🌱 I’m currently learning **React & Redux**
 
 - 👯 I’m looking to collaborate on **Open Source Projects aimed at helping underrespresented groups**
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/carloze11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="carloze11" height="30" width="40" /></a>
 <a href="https://twitter.com/carlosestrawda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carlosestrawda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/carlosxestrada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosxestrada" height="30" width="40" /></a>
 </p>
